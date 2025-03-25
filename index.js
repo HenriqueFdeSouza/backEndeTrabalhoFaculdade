@@ -3,8 +3,8 @@ const cors = require("cors");
 const Parse = require("parse/node");
 
 Parse.initialize(
-  "sp6qApi7L3mO7FHFJe5qKnWSLhE1vGmfkyLC3kth",
-  "4MfurOB2GU1DuTgYpnBWZ6zRuYfnYM74bXFhySkK",
+  "WDOggm5R4qPBWtQn3q891YSAzBqElBERSP8VjUsc",
+  "DYDVLfBts9SJWQ2f6uORiX7S93bVlVdQbQBzngVL",
 );
 Parse.serverURL = "https://parseapi.back4app.com/";
 
